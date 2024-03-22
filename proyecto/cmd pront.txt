@@ -9,4 +9,4 @@ pip install matplotlib == 3.2.2
 
 ejecutar el progrmama 
 
-python FaceEmotionVideo.py
+python FaceEmotionVideoBar.py
